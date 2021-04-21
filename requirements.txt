@@ -1,0 +1,13 @@
+requests
+pandas
+datetime
+time
+streamlit
+yfinance
+app
+awesome_streamlit
+math
+sklearn
+numpy
+keras
+matplotlib
