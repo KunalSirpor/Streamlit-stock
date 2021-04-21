@@ -7,3 +7,4 @@ sklearn
 numpy
 keras
 matplotlib
+tensorflow
