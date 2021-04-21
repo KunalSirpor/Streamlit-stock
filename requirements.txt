@@ -7,4 +7,4 @@ sklearn
 numpy
 keras
 matplotlib
-tensorflow
+tensorflow-cpu
